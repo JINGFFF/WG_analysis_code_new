@@ -1,0 +1,4 @@
+/data/pku/home/pengj/testvbs/data/for_analysis/2016_PUJetID/full_run2_2016_PUJetID_for_analysis_version8_WW_2/210422_002159/0000/treePKU_1.root
+/data/pku/home/pengj/testvbs/data/for_analysis/2016_PUJetID/full_run2_2016_PUJetID_for_analysis_version8_WW_2/210422_002159/0000/treePKU_2.root
+/data/pku/home/pengj/testvbs/data/for_analysis/2016_PUJetID/full_run2_2016_PUJetID_for_analysis_version8_WW_2/210422_002159/0000/treePKU_3.root
+/data/pku/home/pengj/testvbs/data/for_analysis/2016_PUJetID/full_run2_2016_PUJetID_for_analysis_version8_WW_2/210422_002159/0000/treePKU_4.root

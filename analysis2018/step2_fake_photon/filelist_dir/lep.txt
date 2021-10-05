@@ -1,0 +1,8 @@
+/data/pku/home/pengj/testvbs/data/fakephoton/2018/2018_electron_A.root
+/data/pku/home/pengj/testvbs/data/fakephoton/2018/2018_electron_B.root
+/data/pku/home/pengj/testvbs/data/fakephoton/2018/2018_electron_C.root
+/data/pku/home/pengj/testvbs/data/fakephoton/2018/2018_electron_D.root
+/data/pku/home/pengj/testvbs/data/fakephoton/2018/2018_muon_A.root
+/data/pku/home/pengj/testvbs/data/fakephoton/2018/2018_muon_B.root
+/data/pku/home/pengj/testvbs/data/fakephoton/2018/2018_muon_C.root
+/data/pku/home/pengj/testvbs/data/fakephoton/2018/2018_muon_D.root

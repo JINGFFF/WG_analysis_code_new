@@ -1,0 +1,17 @@
+#./limit filelist_dir/tight_WGJJ.txt test_limit_mjj800 2018 muon mc WGJJ medium
+#./limit filelist_dir/tight_WGJJ_aqgc.txt test_limit_mjj800 2018 muon mc WGaqgc medium
+#./limit filelist_dir/tight_ST_s.txt test_limit_mjj800 2018 muon mc ST_s medium
+#./limit filelist_dir/tight_ST_t.txt test_limit_mjj800 2018 muon mc ST_t medium
+#./limit filelist_dir/tight_ST_tbar.txt test_limit_mjj800 2018 muon mc ST_tbar medium
+#./limit filelist_dir/tight_ST_tW.txt test_limit_mjj800 2018 muon mc ST_tW medium
+#./limit filelist_dir/tight_ST_tbarW.txt test_limit_mjj800 2018 muon mc ST_tbarW medium
+#./limit filelist_dir/tight_TTG.txt test_limit_mjj800 2018 muon mc TTG medium
+#./limit filelist_dir/tight_WW.txt test_limit_mjj800 2018 muon mc WW medium
+#./limit filelist_dir/tight_WZ.txt test_limit_mjj800 2018 muon mc WZ medium
+#./limit filelist_dir/tight_ZZ.txt test_limit_mjj800 2018 muon mc ZZ medium
+#./limit filelist_dir/tight_ZG.txt test_limit_mjj800 2018 muon mc ZG medium
+#./limit filelist_dir/tight_WGJets.txt test_limit_mjj800 2018 muon mc WGJets medium
+./limit filelist_dir/tight_muon.txt hist_out3 2018 muon data SingleMuon medium
+./limit filelist_dir/tight_muon.txt test_limit_mjj800 2018 muon fakephoton SingleMuon medium
+./limit filelist_dir/loose_muon.txt test_limit_mjj800 2018 muon doublefake SingleMuon medium
+./limit filelist_dir/loose_muon.txt test_limit_mjj800 2018 muon fakelepton SingleMuon medium

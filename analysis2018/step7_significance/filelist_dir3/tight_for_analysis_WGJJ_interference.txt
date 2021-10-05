@@ -1,0 +1,7 @@
+/home/pku/pengj/testvbs/data/for_analysis/QCD_and_Inter/full_run2_2018_LNuAJJ_Interference_version3_v4/210729_082239/0000/treePKU_1.root
+/home/pku/pengj/testvbs/data/for_analysis/QCD_and_Inter/full_run2_2018_LNuAJJ_Interference_version3_v4/210729_082239/0000/treePKU_10.root
+/home/pku/pengj/testvbs/data/for_analysis/QCD_and_Inter/full_run2_2018_LNuAJJ_Interference_version3_v4/210729_082239/0000/treePKU_3.root
+/home/pku/pengj/testvbs/data/for_analysis/QCD_and_Inter/full_run2_2018_LNuAJJ_Interference_version3_v4/210729_082239/0000/treePKU_5.root
+/home/pku/pengj/testvbs/data/for_analysis/QCD_and_Inter/full_run2_2018_LNuAJJ_Interference_version3_v4/210729_082239/0000/treePKU_7.root
+/home/pku/pengj/testvbs/data/for_analysis/QCD_and_Inter/full_run2_2018_LNuAJJ_Interference_version3_v4/210729_082239/0000/treePKU_8.root
+/home/pku/pengj/testvbs/data/for_analysis/QCD_and_Inter/full_run2_2018_LNuAJJ_Interference_version3_v4/210729_082239/0000/treePKU_9.root

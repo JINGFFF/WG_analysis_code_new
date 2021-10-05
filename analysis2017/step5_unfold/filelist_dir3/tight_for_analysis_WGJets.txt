@@ -1,0 +1,2 @@
+/data/pku/home/pengj/testvbs/data/for_analysis/2017_puietID/2017_tight_for_analysis_WGJets_1.root
+/data/pku/home/pengj/testvbs/data/for_analysis/2017_puietID/2017_tight_for_analysis_WGJets_2.root

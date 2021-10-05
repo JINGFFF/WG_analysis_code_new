@@ -1,0 +1,4 @@
+hadd $1_all_mc_signal_barrel_other.root $1_all_mc_signal_barrel_WW.root $1_all_mc_signal_barrel_WZ.root $1_all_mc_signal_barrel_ZZ.root $1_all_mc_signal_barrel_ST_*.root $1_all_mc_signal_barrel_TTG.root $1_all_mc_signal_barrel_ZG.root
+hadd $1_all_mc_signal_endcap_other.root $1_all_mc_signal_endcap_WW.root $1_all_mc_signal_endcap_WZ.root $1_all_mc_signal_endcap_ZZ.root $1_all_mc_signal_endcap_ST_*.root $1_all_mc_signal_endcap_TTG.root $1_all_mc_signal_endcap_ZG.root
+hadd $1_all_mc_control_barrel_other.root $1_all_mc_control_barrel_WW.root $1_all_mc_control_barrel_WZ.root $1_all_mc_control_barrel_ZZ.root $1_all_mc_control_barrel_ST_*.root $1_all_mc_control_barrel_TTG.root $1_all_mc_control_barrel_ZG.root
+hadd $1_all_mc_control_endcap_other.root $1_all_mc_control_endcap_WW.root $1_all_mc_control_endcap_WZ.root $1_all_mc_control_endcap_ZZ.root $1_all_mc_control_endcap_ST_*.root $1_all_mc_control_endcap_TTG.root $1_all_mc_control_endcap_ZG.root

@@ -1,0 +1,17 @@
+./limit filelist_dir/tight_WGJJ.txt test_limit_mjj800 2018 electron mc WGJJ medium
+./limit filelist_dir/tight_WGJJ_aqgc.txt test_limit_mjj800 2018 electron mc WGaqgc medium
+./limit filelist_dir/tight_ST_s.txt test_limit_mjj800 2018 electron mc ST_s medium
+./limit filelist_dir/tight_ST_t.txt test_limit_mjj800 2018 electron mc ST_t medium
+./limit filelist_dir/tight_ST_tbar.txt test_limit_mjj800 2018 electron mc ST_tbar medium
+./limit filelist_dir/tight_ST_tW.txt test_limit_mjj800 2018 electron mc ST_tW medium
+./limit filelist_dir/tight_ST_tbarW.txt test_limit_mjj800 2018 electron mc ST_tbarW medium
+./limit filelist_dir/tight_TTG.txt test_limit_mjj800 2018 electron mc TTG medium
+./limit filelist_dir/tight_WW.txt test_limit_mjj800 2018 electron mc WW medium
+./limit filelist_dir/tight_WZ.txt test_limit_mjj800 2018 electron mc WZ medium
+./limit filelist_dir/tight_ZZ.txt test_limit_mjj800 2018 electron mc ZZ medium
+./limit filelist_dir/tight_ZG.txt test_limit_mjj800 2018 electron mc ZG medium
+./limit filelist_dir/tight_WGJets.txt test_limit_mjj800 2018 electron mc WGJets medium
+./limit filelist_dir/tight_electron.txt test_limit_mjj800 2018 electron data SingleElectron medium
+./limit filelist_dir/tight_electron.txt test_limit_mjj800 2018 electron fakephoton SingleElectron medium
+./limit filelist_dir/loose_electron.txt test_limit_mjj800 2018 electron doublefake SingleElectron medium
+./limit filelist_dir/loose_electron.txt test_limit_mjj800 2018 electron fakelepton SingleElectron medium

@@ -1,0 +1,4 @@
+submit_condor.py unfold 1_uncertainty_mla_all.sh test_unfold1 unfold_$1/unfold_out_mla
+submit_condor.py unfold 1_uncertainty_photonet_all.sh test_unfold1 unfold_$1/unfold_out_photonet
+submit_condor.py unfold 1_uncertainty_ptlep_all.sh test_unfold1 unfold_$1/unfold_out_ptlep
+submit_condor.py unfold 1_uncertainty_jet1pt_all.sh test_unfold1 unfold_$1/unfold_out_jet1pt
